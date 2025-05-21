@@ -1,0 +1,12 @@
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Centraliza verticalmente */
+  align-items: center;     /* Centraliza horizontalmente */
+  box-sizing: border-box;
+  background-color: #f5f5f5; /* Fundo claro */
+}
