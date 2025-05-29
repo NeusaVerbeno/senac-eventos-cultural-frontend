@@ -1,5 +1,5 @@
 // src/pages/ListEventsPage/ListEventsPage.tsx
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import styles from './HomePage.module.css';
 import NavBarComponent from '../../components/NavBar/NavBarComponent';
 
